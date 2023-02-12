@@ -1,0 +1,4 @@
+In general, an interceptor is nothing but a function that gets called for every single HTTP request made and the response received by your application.
+
+
+
