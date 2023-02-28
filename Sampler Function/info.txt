@@ -1,0 +1,4 @@
+create a sample function that will take a callback function and a count as parameters, and will return a function that will only run callback function when it is called the same number of times as the count passed as argument.
+
+
+more about this on: https://learnersbucket.com/examples/interview/sampling-function-in-javascript/
